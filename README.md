@@ -1,4 +1,6 @@
 Função: char* cadastro()
+100% C ansi
+windows/linux
 
 A função `cadastro()` permite escolher entre **Cadastrar** ou **Fazer Login** de um usuário.
 Ela recebe três parâmetros:
